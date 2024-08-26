@@ -1,1 +1,1 @@
-# tweet-on-twitter-X-with-python
+# tweet on X (twitter) with python tweepy
